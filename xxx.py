@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-os.system('python xxx2.py')
+os.system('python xxx3.py')
